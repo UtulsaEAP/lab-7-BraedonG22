@@ -1,0 +1,8 @@
+Last Name	First Name	Midterm1	Midterm2	Final	Grade
+Charlton	Caius	73	94	80	B
+Mayo	Tyrese	88	61	36	D
+Stern	Brenda	90	86	45	C
+
+Average Midterm1: 83.67
+Average Midterm2: 80.33
+Average Final:53.67

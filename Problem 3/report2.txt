@@ -1,0 +1,6 @@
+Last Name	First Name	Midterm1	Midterm2	Final	Grade
+Stott	Peyton	80	57	75	C
+
+Average Midterm1: 80.00
+Average Midterm2: 57.00
+Average Final:75.00

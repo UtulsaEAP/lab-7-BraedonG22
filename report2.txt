@@ -1,3 +1,0 @@
-Stott	Peyton	80	57	75	C
-
-Averages: midterm1 80.00, midterm2 57.00, final 75.00

@@ -1,3 +1,4 @@
+Last Name	First Name	Midterm1	Midterm2	Final	Grade
 Barber	Ryley	97	65	55	C
 Barrett	Edan	98	63	53	C
 Bradshaw	Reagan	89	55	38	D
@@ -14,4 +15,6 @@ Stern	Brenda	68	84	52	D
 Stott	Peyton	80	57	59	D
 Warner	Gwion	65	36	47	F
 
-Averages: midterm1 78.80, midterm2 68.47, final 64.20
+Average Midterm1: 78.80
+Average Midterm2: 68.47
+Average Final:64.20
